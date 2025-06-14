@@ -1,0 +1,3 @@
+# requirements.txt
+# Este projeto não possui dependências externas além da biblioteca padrão do Python.
+# A versão mínima do Python é especificada no setup.py.
